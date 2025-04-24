@@ -1,6 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -29,14 +27,12 @@
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
-
-## Input:
-
 ### Output:
+![EMPD-Axial Wheel](https://github.com/user-attachments/assets/cb22c0c5-c0fc-4dbd-820c-e10e0e098bd1)
 
-
-### Name:
-### Register Number:
+### Name: VAISHNAVI R NAIR
+### Register Number: 212224110058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
